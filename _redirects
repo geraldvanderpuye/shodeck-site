@@ -1,0 +1,35 @@
+# Old WordPress blog post URLs → new static URLs
+/buyer-portal-roi-measuring-sales-success/ /blog/buyer-portal-roi.html 301
+/buyer-portal-roi-measuring-sales-success /blog/buyer-portal-roi.html 301
+/8-ways-to-improve-sales-content-organization/ /blog/sales-content-organization.html 301
+/8-ways-to-improve-sales-content-organization /blog/sales-content-organization.html 301
+/b2b-sales-collaboration-essential-tools-checklist/ /blog/b2b-sales-collaboration.html 301
+/b2b-sales-collaboration-essential-tools-checklist /blog/b2b-sales-collaboration.html 301
+/sales-analytics-measuring-prospect-engagement/ /blog/sales-analytics.html 301
+/sales-analytics-measuring-prospect-engagement /blog/sales-analytics.html 301
+/content-portal-vs-sales-room-key-differences-explained/ /blog/content-portal-vs-sales-room.html 301
+/content-portal-vs-sales-room-key-differences-explained /blog/content-portal-vs-sales-room.html 301
+/5-best-practices-for-digital-sales-room-success/ /blog/digital-sales-room.html 301
+/5-best-practices-for-digital-sales-room-success /blog/digital-sales-room.html 301
+/sales-content-management-a-complete-guide-for-teams/ /blog/sales-content-management.html 301
+/sales-content-management-a-complete-guide-for-teams /blog/sales-content-management.html 301
+
+# Old WordPress blog index
+/blog/ /blog.html 301
+
+# Old WordPress category/tag pages
+/category/* /blog.html 301
+/tag/* /blog.html 301
+
+# WordPress artifacts - redirect to homepage
+/wp-admin /index.html 301
+/wp-login.php /index.html 301
+/wp-content/* /index.html 301
+/feed/ /index.html 301
+/feed /index.html 301
+/xmlrpc.php /index.html 301
+
+# Common WordPress pages
+/contact/ /index.html 301
+/privacy-policy/ /index.html 301
+/terms-of-service/ /index.html 301
